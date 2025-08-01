@@ -1,3 +1,5 @@
+July 2025 Cohort Hackathon 1: PLP Academy Portfolio Challenge🚀
+
 # 💻 Jane Rose Portfolio
 
 This is a responsive personal portfolio created as part of PLP Hackathon Portfolio challenge. Built with **pure HTML and CSS**, it highlights my background, skills, and key projects.
@@ -38,7 +40,7 @@ This is a responsive personal portfolio created as part of PLP Hackathon Portfol
 - Focused on responsiveness and clarity
 - Self-managed tasks and sections using Git
 
-## Contributing
+## Contributing 🤝🏽
 Contributions are welcome! To contribute:
 1. Fork the repository.
 2. Create a branch: `git checkout -b feature-name`.
@@ -49,13 +51,11 @@ Contributions are welcome! To contribute:
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
-## Contact
-Feel free to reach out via the Contact form on the portfolio or connect with me on:
-- Email: rosejaneforyou@gmail.com
-
 
 ## 📬 Contact
 
-Want to collaborate or reach out? Use the contact form on the page or email me directly.
+Want to collaborate or reach out? Email me directly.
+
+Feel free to reach out via my Email: rosejaneforyou@gmail.com
 
 © 2025 Jane Rose. Built for PLP 2025 Hackathon Challenge 🚀
