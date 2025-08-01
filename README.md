@@ -21,7 +21,7 @@ This is a responsive personal portfolio created as part of PLP Hackathon Portfol
 
 ## 📄 Live Demo
 
-[Click to View on GitHub Pages](https://yourusername.github.io/portfolio/)  
+[Click to View on GitHub Pages](https://mujojo03.github.io/July2025Cohort-Hackathon1/)  
 
 ## 📁 Project Structure
 
