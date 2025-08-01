@@ -49,7 +49,7 @@ Contributions are welcome! To contribute:
 5. Open a pull request with a description of your changes.
 
 ## License
-This project is licensed under the MIT License. See [LICENSE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sarahtownsendeditorial.co.uk%2F2019%2F07%2Flicence-vs-license-top-spelling-tricks-to-help-you-get-it-right%2F&psig=AOvVaw1nHyM7a_ChKv9HCaZ4Z7GJ&ust=1754160531819000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKDkq7Cj6o4DFQAAAAAdAAAAABAE) for details.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 
 ## 📬 Contact
